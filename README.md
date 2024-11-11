@@ -38,7 +38,7 @@ Considerar un planeta con cuatro personas como habitantes, dos murallas y un mus
 Hacer que algunos de sus habitantes ganen o gasten monedas y/o cumplan años y en consecuencia cambien algunas de las respuestas anteriores.
 
 
-# Más personas
+## Más personas
 
 Además de las personas anteriores, existen algunas de ellas que tienen otras responsabilidades: productores y constructores. 
 
